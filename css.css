@@ -79,8 +79,6 @@ input::placeholder {
 .wrapper {
   width: 500vw;
   display: flex;
-
-  /* transform:translateX(-300vw) */
   transition: all 3s ease-in-out;
 }
 
